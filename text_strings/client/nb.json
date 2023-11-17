@@ -1801,5 +1801,8 @@
   "general_var_per_year": "%1$d betales årlig",
   "general_per_month": "per måned",
   "dreams_flash_card_title": "Smarte sparehack for familien med Dreams!",
-  "dreams_flash_card_subtitle": "Les om tilbudet"
+  "dreams_flash_card_subtitle": "Les om tilbudet",
+  "general_notify_parent": "PLZ_TRANSLATE Notify %1$d",
+  "general_parent_has_been_notified": "PLZ_TRANSLATE %1$d has been notified",
+  "general_piggy_bot_pro_access": "PLZ_TRANSLATE You have reached the daily chat limit. 😢🤐 You need to upgrade to Pro to get unlimited access to Piggy Chat. ✨👑 I can help you to notify %1$d to get a subscription. 🔔💬"
 }

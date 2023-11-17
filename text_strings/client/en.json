@@ -1801,5 +1801,8 @@
   "general_var_per_year": "%1$d billed yearly",
   "general_per_month": "per month",
   "dreams_flash_card_title": "Learn how to save & get cashback with Dreams!",
-  "dreams_flash_card_subtitle": "Read about the offer"
+  "dreams_flash_card_subtitle": "Read about the offer",
+  "general_notify_parent": "Notify %1$d",
+  "general_parent_has_been_notified": "I have now sent a notification to %1$d 😎✌️",
+  "general_piggy_bot_pro_access": "You have reached the daily chat limit. 😢🤐 You need to upgrade to Pro to get unlimited access to Piggy Chat. ✨👑 I can help you to notify %1$d to get a subscription. 🔔💬"
 }

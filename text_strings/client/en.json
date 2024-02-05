@@ -1429,5 +1429,10 @@
   "general_link_copied": "Link copied!",
   "general_var_per_month": "%1$d/Month",
   "alpha_survey_banner_title": "You are one of our first users!",
-  "alpha_survey_banner_description": "Give us 30 seconds feedback – earn 30 stars for your children"
+  "alpha_survey_banner_description": "Give us 30 seconds feedback – earn 30 stars for your children",
+  "apply-for-partnership-bank-account-popover-title": "Before we start",
+  "apply-for-partnership-bank-account-popover-description1": "The ICA Banken application can take some minutes. Do you want to continue or save the link for later?",
+  "apply-for-partnership-bank-account-popover-description2": "The link is unique and a prerequisite for the Gimi offer.",
+  "apply-for-partnership-bank-account-popover-proceed": "I’ll do it now",
+  "apply-for-partnership-bank-account-popover-copy-link": "Copy link"
 }

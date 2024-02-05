@@ -1429,5 +1429,10 @@
   "general_link_copied": "Länk kopierad!",
   "general_var_per_month": "%1$d/månad",
   "alpha_survey_banner_title": "PLZ_TRANSLATE You are one of our first users!",
-  "alpha_survey_banner_description": "PLZ_TRANSLATE Give us 30 seconds feedback – earn 30 stars for your children"
+  "alpha_survey_banner_description": "PLZ_TRANSLATE Give us 30 seconds feedback – earn 30 stars for your children",
+  "apply-for-partnership-bank-account-popover-title": "PLZ_TRANSLATE Before we start",
+  "apply-for-partnership-bank-account-popover-description1": "PLZ_TRANSLATE The ICA Banken application can take some minutes. Do you want to continue or save the link for later?",
+  "apply-for-partnership-bank-account-popover-description2": "PLZ_TRANSLATE The link is unique and a prerequisite for the Gimi offer.",
+  "apply-for-partnership-bank-account-popover-proceed": "PLZ_TRANSLATE I’ll do it now",
+  "apply-for-partnership-bank-account-popover-copy-link": "PLZ_TRANSLATE Copy link"
 }
